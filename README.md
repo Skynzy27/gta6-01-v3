@@ -1,7 +1,8 @@
 # Solmar Bay 3D
 
-[![make.fun](https://img.shields.io/badge/make.fun-gta6--01-orange)](https://make.fun/c/gta6-01)
-[![make.fun](https://img.shields.io/badge/make.fun-Make%20GTA%206-blue)](https://make.fun)
+[![make.fun · gta6-01](https://make.fun/badge/gta6-01.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![rank](https://make.fun/badge/gta6-01/Skynzy27/gta6-01-v3/rank.svg)](https://make.fun/bounty/gta6-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![reward](https://make.fun/badge/gta6-01/Skynzy27/gta6-01-v3/reward.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A 3D open-world crime game for the [make.fun](https://make.fun) competition
